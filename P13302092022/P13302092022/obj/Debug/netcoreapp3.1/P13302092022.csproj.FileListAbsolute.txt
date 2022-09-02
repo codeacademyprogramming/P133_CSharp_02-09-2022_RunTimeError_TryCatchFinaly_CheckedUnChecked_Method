@@ -1,0 +1,14 @@
+C:\Users\hamid.mammadov\Desktop\P13302092022\P13302092022\bin\Debug\netcoreapp3.1\P13302092022.exe
+C:\Users\hamid.mammadov\Desktop\P13302092022\P13302092022\bin\Debug\netcoreapp3.1\P13302092022.deps.json
+C:\Users\hamid.mammadov\Desktop\P13302092022\P13302092022\bin\Debug\netcoreapp3.1\P13302092022.runtimeconfig.json
+C:\Users\hamid.mammadov\Desktop\P13302092022\P13302092022\bin\Debug\netcoreapp3.1\P13302092022.runtimeconfig.dev.json
+C:\Users\hamid.mammadov\Desktop\P13302092022\P13302092022\bin\Debug\netcoreapp3.1\P13302092022.dll
+C:\Users\hamid.mammadov\Desktop\P13302092022\P13302092022\bin\Debug\netcoreapp3.1\P13302092022.pdb
+C:\Users\hamid.mammadov\Desktop\P13302092022\P13302092022\obj\Debug\netcoreapp3.1\P13302092022.csproj.AssemblyReference.cache
+C:\Users\hamid.mammadov\Desktop\P13302092022\P13302092022\obj\Debug\netcoreapp3.1\P13302092022.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hamid.mammadov\Desktop\P13302092022\P13302092022\obj\Debug\netcoreapp3.1\P13302092022.AssemblyInfoInputs.cache
+C:\Users\hamid.mammadov\Desktop\P13302092022\P13302092022\obj\Debug\netcoreapp3.1\P13302092022.AssemblyInfo.cs
+C:\Users\hamid.mammadov\Desktop\P13302092022\P13302092022\obj\Debug\netcoreapp3.1\P13302092022.csproj.CoreCompileInputs.cache
+C:\Users\hamid.mammadov\Desktop\P13302092022\P13302092022\obj\Debug\netcoreapp3.1\P13302092022.dll
+C:\Users\hamid.mammadov\Desktop\P13302092022\P13302092022\obj\Debug\netcoreapp3.1\P13302092022.pdb
+C:\Users\hamid.mammadov\Desktop\P13302092022\P13302092022\obj\Debug\netcoreapp3.1\P13302092022.genruntimeconfig.cache

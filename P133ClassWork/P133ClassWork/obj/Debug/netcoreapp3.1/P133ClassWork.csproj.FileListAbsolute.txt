@@ -1,0 +1,14 @@
+C:\Users\hamid.mammadov\Desktop\P133ClassWork\P133ClassWork\bin\Debug\netcoreapp3.1\P133ClassWork.exe
+C:\Users\hamid.mammadov\Desktop\P133ClassWork\P133ClassWork\bin\Debug\netcoreapp3.1\P133ClassWork.deps.json
+C:\Users\hamid.mammadov\Desktop\P133ClassWork\P133ClassWork\bin\Debug\netcoreapp3.1\P133ClassWork.runtimeconfig.json
+C:\Users\hamid.mammadov\Desktop\P133ClassWork\P133ClassWork\bin\Debug\netcoreapp3.1\P133ClassWork.runtimeconfig.dev.json
+C:\Users\hamid.mammadov\Desktop\P133ClassWork\P133ClassWork\bin\Debug\netcoreapp3.1\P133ClassWork.dll
+C:\Users\hamid.mammadov\Desktop\P133ClassWork\P133ClassWork\bin\Debug\netcoreapp3.1\P133ClassWork.pdb
+C:\Users\hamid.mammadov\Desktop\P133ClassWork\P133ClassWork\obj\Debug\netcoreapp3.1\P133ClassWork.csproj.AssemblyReference.cache
+C:\Users\hamid.mammadov\Desktop\P133ClassWork\P133ClassWork\obj\Debug\netcoreapp3.1\P133ClassWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hamid.mammadov\Desktop\P133ClassWork\P133ClassWork\obj\Debug\netcoreapp3.1\P133ClassWork.AssemblyInfoInputs.cache
+C:\Users\hamid.mammadov\Desktop\P133ClassWork\P133ClassWork\obj\Debug\netcoreapp3.1\P133ClassWork.AssemblyInfo.cs
+C:\Users\hamid.mammadov\Desktop\P133ClassWork\P133ClassWork\obj\Debug\netcoreapp3.1\P133ClassWork.csproj.CoreCompileInputs.cache
+C:\Users\hamid.mammadov\Desktop\P133ClassWork\P133ClassWork\obj\Debug\netcoreapp3.1\P133ClassWork.dll
+C:\Users\hamid.mammadov\Desktop\P133ClassWork\P133ClassWork\obj\Debug\netcoreapp3.1\P133ClassWork.pdb
+C:\Users\hamid.mammadov\Desktop\P133ClassWork\P133ClassWork\obj\Debug\netcoreapp3.1\P133ClassWork.genruntimeconfig.cache

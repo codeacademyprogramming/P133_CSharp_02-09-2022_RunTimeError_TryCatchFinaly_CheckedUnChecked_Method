@@ -1,0 +1,14 @@
+C:\Users\hamid.mammadov\Desktop\P133Methods\P133Methods\bin\Debug\netcoreapp3.1\P133Methods.exe
+C:\Users\hamid.mammadov\Desktop\P133Methods\P133Methods\bin\Debug\netcoreapp3.1\P133Methods.deps.json
+C:\Users\hamid.mammadov\Desktop\P133Methods\P133Methods\bin\Debug\netcoreapp3.1\P133Methods.runtimeconfig.json
+C:\Users\hamid.mammadov\Desktop\P133Methods\P133Methods\bin\Debug\netcoreapp3.1\P133Methods.runtimeconfig.dev.json
+C:\Users\hamid.mammadov\Desktop\P133Methods\P133Methods\bin\Debug\netcoreapp3.1\P133Methods.dll
+C:\Users\hamid.mammadov\Desktop\P133Methods\P133Methods\bin\Debug\netcoreapp3.1\P133Methods.pdb
+C:\Users\hamid.mammadov\Desktop\P133Methods\P133Methods\obj\Debug\netcoreapp3.1\P133Methods.csproj.AssemblyReference.cache
+C:\Users\hamid.mammadov\Desktop\P133Methods\P133Methods\obj\Debug\netcoreapp3.1\P133Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hamid.mammadov\Desktop\P133Methods\P133Methods\obj\Debug\netcoreapp3.1\P133Methods.AssemblyInfoInputs.cache
+C:\Users\hamid.mammadov\Desktop\P133Methods\P133Methods\obj\Debug\netcoreapp3.1\P133Methods.AssemblyInfo.cs
+C:\Users\hamid.mammadov\Desktop\P133Methods\P133Methods\obj\Debug\netcoreapp3.1\P133Methods.csproj.CoreCompileInputs.cache
+C:\Users\hamid.mammadov\Desktop\P133Methods\P133Methods\obj\Debug\netcoreapp3.1\P133Methods.dll
+C:\Users\hamid.mammadov\Desktop\P133Methods\P133Methods\obj\Debug\netcoreapp3.1\P133Methods.pdb
+C:\Users\hamid.mammadov\Desktop\P133Methods\P133Methods\obj\Debug\netcoreapp3.1\P133Methods.genruntimeconfig.cache
